@@ -32,7 +32,9 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="include/libsample.h" />
 		<Unit filename="main.cpp" />
+		<Unit filename="source/sample.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />
