@@ -35,6 +35,7 @@
 		<Unit filename="include/libsample.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="source/sample.cpp" />
+		<Unit filename="source/sampleDynamic.cpp" />
 		<Extensions>
 			<code_completion />
 			<debugger />

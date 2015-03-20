@@ -7,5 +7,6 @@ int main()
 {
     cout << "Hello world!" << endl;
     fun();
+    foo();
     return 0;
 }
